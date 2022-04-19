@@ -4,5 +4,6 @@ The website will parse the assembly instructions out of the file, in order for i
 * Instructions separated from operands with a tab (Not spaces!)
 * operands separated by a space
 
+The website will recognise operands as variables, unless they include a hash key, in which case they will be recognised as numeric constants.
 If these formatting rules are not adhered to the website will fail to parse the instructions correctly and produce incorrect output.
 
