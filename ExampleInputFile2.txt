@@ -1,0 +1,10 @@
+ldur	X1, #1
+ldur	X2, #2	
+add	X3, X2, X1
+sub	X4, X3, X1
+stur	M1, X4
+
+
+
+			
+ 

@@ -1,0 +1,11 @@
+add	X3, X2, X1
+sub	X4, X3, X1
+and	X5, X4, X3
+eor	X6, X5, X4	
+stur	M1, X6
+   
+
+
+
+			
+ 
