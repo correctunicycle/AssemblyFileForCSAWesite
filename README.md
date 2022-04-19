@@ -5,3 +5,15 @@ Markup:*Instructions separated from operands with a tab (Not spaces!)
 *operands separated by a space
 
 If these formatting rules are not adhered to the website will fail to parse the instructions correctly and produce incorrect output.
+
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
